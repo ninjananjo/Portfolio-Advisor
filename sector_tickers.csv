@@ -1,0 +1,32 @@
+Ticker,Name,Sector
+FSPTX,Fidelity Select Technology,Technology
+IYW,iShares US Technology ETF,Technology
+VFAIX,Vanguard Financials Index,Financials
+IYF,iShares US Financial Services,Financials
+VCDAX,Vanguard Consumer Discretionary Index,Consumer Cyclicals
+SRT,SPDR S&P Retail,Consumer Cyclicals
+VCSAX,Vanguard Consumer Staples Index,Consumer Staples
+XLP,Consumer Staples Select Sector SPDR,Consumer Staples
+FIUIX,Fidelity Telecom and Utilities,Utilities
+XLU,Utilities Select Sector SPDR,Utilities
+VGHCX,Vanguard Health Care,Health Care
+PRHSX,T. Rowe Price Health Sciences ,Health Care
+GLD,SPDR Gold Shares,Precious Metals
+TGLDX,Tocqueville Gold,Precious Metals
+GLDAX,Gabelli Gold Load-Waived,Precious Metals
+SLV,iShares Silver Trust,Precious Metals
+USV,UBS E-TRACS CMCI TR Silver ETN,Precious Metals
+JJC,iPath DJ-UBS Copper Total Return Sub-Index ETN,Precious Metals
+PTM,UBS E-TRACS Long Platinum Total Return ETN,Precious Metals
+VGPMX,Vanguard Precious Metals & Mining,Precious Metals
+USAGX,USAA Precious Metals & Minerals,Precious Metals
+IGE,iShares North American Natural Resources ETF,Natural Resources
+MXI,iShares S&P Global Materials ETF,Natural Resources
+VMIAX,Vanguard Materials Index,Natural Resources
+FSDPX,Fidelity Select Materials,Natural Resources
+VENAX,Vanguard Energy Index,Energy
+XLE,Energy Select Sector SPDR,Energy
+FSRFX,Fidelity Select Transportation,Transportation
+IYT,iShares Transportation Average ,Transportation
+PARWX,Parnassus Workplace,Socially Responsible Investing
+CCLAX,Calvert Conservative Allocation,Socially Responsible Investing
